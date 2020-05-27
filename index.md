@@ -39,14 +39,14 @@ end
 *   This is an unordered    list following a header.
 
 ##### Header 5
-
+kkk;l
 1.  This is an ordered list foll owing a header.
 2.  This is an ordered  listf dfddfsfs f ollowing a header.
 3.  This is an order e           d list following a header.
 
 ###### Header 6
 
-| head1        | head two          | three |
+| head1        | head twop          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
