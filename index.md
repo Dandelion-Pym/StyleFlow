@@ -1,6 +1,6 @@
-![Teaser](assets/teaser.png)
+![Teaser](assets/teaser.png width="223" height="223")
 <p align="center">
- <img src="assets/shadow.gif" width="223" height="223"/><img src="assets/gender.gif" width="223" height="223"/><img src="assets/pose1.gif" width="223" height="223"/><img src="assets/pose2.gif" width="223" height="223"/>
+ <img src="assets/shadow.gif" width="200" height="200"/><img src="assets/gender.gif" width="200" height="200"/><img src="assets/pose1.gif" width="200" height="200"/><img src="assets/pose2.gif" width="200" height="200"/>
 </p>
 
 
