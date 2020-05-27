@@ -95,11 +95,11 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
 
 <div class="container">
   <div class="ref">Related Work</div>
-  <div class="citation">
-    <img src="./assets/SPADE.png">
-    <a href="https://nvlabs.github.io/SPADE/">
-      Taesung Park, Ming-Yu Liu, Ting-Chun Wang, and Jun-YanZhu.
-      Semantic image synthesis with spatially-adaptive nor-malization.
+   <div class="citation">
+    <img src="./assets/styleGAN.png">
+    <a href="https://github.com/NVlabs/stylegan">
+      Tero Karras, Samuli Laine, Timo Aila.
+      A Style-Based Generator Architecture for Generative Adversarial Networks
       CVPR, 2019.
     </a>
   </div>
@@ -112,12 +112,14 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
     </a>
   </div>
   <div class="citation">
-    <img src="./assets/Pix2PixHD.png">
-    <a href="https://tcwang0509.github.io/pix2pixHD/">
-      Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, and Bryan Catanzaro.
-      High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.
-      CVPR, 2018.
+    <img src="./assets/styleGAN.png">
+    <a href="https://github.com/NVlabs/stylegan">
+      Tero Karras, Samuli Laine, Timo Aila.
+      A Style-Based Generator Architecture for Generative Adversarial Networks
+      CVPR, 2019.
     </a>
+  </div>
+
   </div>
 
 
