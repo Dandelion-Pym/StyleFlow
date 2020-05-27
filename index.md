@@ -41,7 +41,7 @@ end
 ##### Header 5
 
 1.  This is an ordered list following a header.
-2.  This is an ordered list f ollowing a header.
+2.  This is an ordered  list f ollowing a header.
 3.  This is an order ed list following a header.
 
 ###### Header 6
