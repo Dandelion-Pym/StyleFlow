@@ -1,5 +1,5 @@
 ![Teaser](assets/teaser.png)
-<img src="assets/pose1.gif" width="250" height="250"/> <img src="assets/pose2.gif" width="250" height="250"/>
+<img src="assets/shadow.gif" width="250" height="250"/> <img src="assets/pose1.gif" width="250" height="250"/> <img src="assets/pose2.gif" width="250" height="250"/>
 
 ---
 layout: default
