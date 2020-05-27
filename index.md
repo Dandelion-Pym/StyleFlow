@@ -1,3 +1,5 @@
+![Teaser](assets/teaser.png)
+
 ---
 layout: default
 ---
