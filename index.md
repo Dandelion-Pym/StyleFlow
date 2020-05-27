@@ -116,7 +116,7 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
     </a>
   </div>
   <div class="citation">
-    <img src="assets/styleGAN.png">
+    <img src="assets/styleGAN.png"  height= 100>
     <a href="https://github.com/NVlabs/stylegan">
       Tero Karras, Samuli Laine, Timo Aila.
       A Style-Based Generator Architecture for Generative Adversarial Networks
@@ -125,7 +125,7 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
   </div>
   <div class="citation">
     <img src="assets/styleGAN.png">
-    <a href="https://github.com/NVlabs/stylegan">
+    <a href="https://github.com/NVlabs/stylegan"  height= 100>
       Tero Karras, Samuli Laine, Timo Aila.
       A Style-Based Generator Architecture for Generative Adversarial Networks
       CVPR, 2019.
