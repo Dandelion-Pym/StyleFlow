@@ -15,7 +15,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitejkj==k  space between paragraphs.
 
-There should be w hitespace between pa  ragraphs. We recommend including a README, or a file with information about your project.
+There should be w hitespace between pa  rag raphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
