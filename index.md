@@ -70,6 +70,8 @@ Attribute-conditioned edits where source images are edited using multiple attrib
 Comparison of StyleFlow with other contemporary systems Image2StyleGAN and InterfaceGAN.
 </p>
 
+
+<p align="justify">
 <div class="container">
   <div class="bibtex">Bibtex</div>
 <pre>
@@ -83,7 +85,10 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
 }
 </pre>
 </div>
+</p>
 
+
+<p align="justify">
 <div class="container">
   <div class="acknowledgement">Acknowledgement</div>
   <div class="body" style="font-size: 11pt;;">
@@ -91,6 +96,8 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
   </div>
 
 </div>
+
+</p>
 
 
 <div class="container">
