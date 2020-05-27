@@ -1,4 +1,7 @@
-![Teaser](assets/teaser.png)
+<p align ="center">
+  <img src="assets/teaser.png"/>
+ 
+</p>
 
 <p align ="center">
   <img src="assets/shadow.gif" width="230" height="230" />
