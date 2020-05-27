@@ -1,6 +1,6 @@
 ![Teaser](assets/teaser.png)
 
-<p float="left">
+<p aligh ="center">
   <img src="assets/shadow.gif" width="170" height="170" />
   <img src="assets/gender.gif" width="170" height="170" /> 
   <img src="assets/pose1.gif" width="170" height="170" />
