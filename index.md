@@ -42,7 +42,7 @@ Attribute-conditioned editing using StyleFlow. Starting from a source image, we 
 var fun = function  lang(l) {
   dateformat.i18 n = require('./lang/' + l)
   return true;
-}
+} pop
 ```
 
 ```ruby
