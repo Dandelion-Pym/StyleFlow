@@ -68,7 +68,7 @@ end
 
 1.  Item one
 1.  Item two
-1.  Item three
+1.  Ite m three
 1.  Item four
 
 ### And a nested list:
