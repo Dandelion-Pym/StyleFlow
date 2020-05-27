@@ -1,5 +1,5 @@
 <p align="left">
-<img src="assets/teaser.png" />
+<img src="assets/teaser.png" / height="300">
 <p align="center">
 <h1>Abstract</h1>
  </p>
