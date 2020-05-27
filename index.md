@@ -70,6 +70,55 @@ Attribute-conditioned edits where source images are edited using multiple attrib
 Comparison of StyleFlow with other contemporary systems Image2StyleGAN and InterfaceGAN.
 </p>
 
+<div class="container">
+  <div class="bibtex">Bibtex</div>
+<pre>
+  @misc{zhu2019sean,
+    title={SEAN: Image Synthesis with Semantic Region-Adaptive Normalization},
+    author={Peihao Zhu and Rameen Abdal and Yipeng Qin and Peter Wonka},
+    year={2019},
+    eprint={1911.12861},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+</pre>
+</div>
+
+<div class="container">
+  <div class="acknowledgement">Acknowledgement</div>
+  <div class="body" style="font-size: 11pt;;">
+    We thank Wamiq Reyaz Para for helpful comments. This  work  was  supported  by  the KAUST Office of Sponsored Research (OSR) under AwardNo. OSR-CRG2018-3730.
+  </div>
+
+</div>
+
+
+<div class="container">
+  <div class="ref">Related Work</div>
+  <div class="citation">
+    <img src="./assets/SPADE.png">
+    <a href="https://nvlabs.github.io/SPADE/">
+      Taesung Park, Ming-Yu Liu, Ting-Chun Wang, and Jun-YanZhu.
+      Semantic image synthesis with spatially-adaptive nor-malization.
+      CVPR, 2019.
+    </a>
+  </div>
+  <div class="citation">
+    <img src="./assets/styleGAN.png">
+    <a href="https://github.com/NVlabs/stylegan">
+      Tero Karras, Samuli Laine, Timo Aila.
+      A Style-Based Generator Architecture for Generative Adversarial Networks
+      CVPR, 2019.
+    </a>
+  </div>
+  <div class="citation">
+    <img src="./assets/Pix2PixHD.png">
+    <a href="https://tcwang0509.github.io/pix2pixHD/">
+      Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, and Bryan Catanzaro.
+      High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.
+      CVPR, 2018.
+    </a>
+  </div>
 
 
 
