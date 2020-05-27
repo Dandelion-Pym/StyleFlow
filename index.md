@@ -2,7 +2,7 @@
   <img src="assets/teaser.png" />
 </p>
 
-<p align ="center"><img src="assets/shadow.gif" width="230" height="230" /><img src="assets/gender.gif" width="230" height="230" /><img src="assets/pose1.gif" width="230" height="230" /><img src="assets/pose2.gif" width="230" height="230" /></p>
+<p align ="center"><img src="assets/shadow.gif" width="170" height="170" /><img src="assets/gender.gif" width="170" height="170" /><img src="assets/pose1.gif" width="170" height="170" /><img src="assets/pose2.gif" width="170" height="170" /></p>
 
 
 ---
