@@ -41,7 +41,7 @@ Attribute-conditioned editing using StyleFlow. Starting from a source image, we 
 
 
 <p align="justify">
-Attribute-conditioned sampling using StyleFlow. Here we show sampling results for attribute specifications of \textit{females with glasses in a target pose}~(top); \textit{50-year old males with facial hair}~(middle); and \textit{smiling 5-year old children in a target pose}~(bottom).
+Attribute-conditioned sampling using StyleFlow. Here we show sampling results for attribute specifications of \textit{females with glasses in a target pose}(top); \textit{50-year old males with facial hair}(middle); and \textit{smiling 5-year old children in a target pose}(bottom).
 </p>
 
 <p align="center">
