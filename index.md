@@ -1,6 +1,6 @@
 <p align="center">
 <img src="assets/teaser.png" /><img src="assets/1.gif" height="150" /><img src="assets/2.gif" height="150" /></p>
-<div style="text-align: right"><img src="assets/teaser.png" width="100" /></div>
+<div style="text-align: right"><img src="assets/2.gif" width="100" /></div>
 
 <p align="center">
 <h1>Abstract</h1>
