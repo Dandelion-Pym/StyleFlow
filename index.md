@@ -2,7 +2,7 @@
 <img src="assets/teaser.png" />
 </p>
 <p align="center">
-# Abstract
+<h1>Abstract</h1>
  </p>
 <p align="justify">
   <p align="center">
