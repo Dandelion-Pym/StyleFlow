@@ -1,7 +1,7 @@
 <p align ="center">
 <img src="assets/teaser.png" />
 
-<img src="assets/1.gif" height="150" /><img src="assets/2.gif" height="150" />
+   <img src="assets/1.gif" height="150" /><img src="assets/2.gif" height="150" />
 
 </p>
 
