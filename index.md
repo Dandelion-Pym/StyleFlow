@@ -95,7 +95,7 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
 <p align="justify">
 <div class="container">
   <div class="body" style="font-size: 11pt;;">
-   This  work  was  supported  by  the KAUST Office of Sponsored Research (OSR) under AwardNo. OSR-CRG2018-3730.
+   This work was supported by the KAUST Office of Sponsored Research (OSR) under AwardNo. OSR-CRG2018-3730.
   </div>
 
 </div>
