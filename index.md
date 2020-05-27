@@ -1,9 +1,5 @@
 <p align="center">
-<img src="assets/teaser.png" />
-
-   <img src="assets/1.gif" height="150" /><img src="assets/2.gif" height="150" />
-
-</p>
+<img src="assets/teaser.png" /><img src="assets/1.gif" height="150" /><img src="assets/2.gif" height="150" /></p>
 
 <p align="center">
 <h1>Abstract</h1>
