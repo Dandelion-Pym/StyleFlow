@@ -1,4 +1,4 @@
-![Teaser](assets/teaser.png width="223" height="223")
+![Teaser](assets/teaser.png)
 <p align="center">
  <img src="assets/shadow.gif" width="200" height="200"/><img src="assets/gender.gif" width="200" height="200"/><img src="assets/pose1.gif" width="200" height="200"/><img src="assets/pose2.gif" width="200" height="200"/>
 </p>
