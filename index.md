@@ -27,7 +27,7 @@ var fun = function  lang(l) {
 
 ```ruby
 # Ruby code with s yntax highlighting
-GitHubPages::Dependencies.g  ems.each do |gem, version|
+GitHubPages::D ependencies.g  ems.each do |gem, version|
   s.add_dependency(gem, "  = #{version}")
 end
 ```
