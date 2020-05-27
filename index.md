@@ -63,7 +63,7 @@ Attribute-conditioned edits where source images are edited using multiple attrib
  </p>
  
  <p align="center">
-<img src="assets/compare.png" /></p>
+<img src="assets/comapre.png" /></p>
 
 
 <p align="justify">
