@@ -34,7 +34,7 @@ end
 
 #### Header 4
 
-*   This is an unordered list follow ing a header.
+*   This is an unordere d list follow ing a header.
 *   This is an unordered list following a header.
 *   This is an unordered    list following a header.
 
