@@ -1,5 +1,5 @@
 ![Teaser](assets/teaser.png)
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ---
 layout: default
 ---
