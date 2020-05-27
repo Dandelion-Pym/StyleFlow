@@ -1,5 +1,5 @@
 ![Teaser](assets/teaser.png)
-![Alt Text1](assets/pose1.gif) ![Alt Text2](assets/pose2.gif)
+![Alt Text1](assets/pose1.gif width="40" height="40") ![Alt Text2](assets/pose2.gif width="40" height="40")
 ---
 layout: default
 ---
