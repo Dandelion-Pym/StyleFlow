@@ -1,5 +1,6 @@
 ![Teaser](assets/teaser.png)
-![Alt Text1](assets/pose1.gif){:height="50%" width="50%"} ![Alt Text2](assets/pose2.gif){:height="50%" width="50%"}
+<img src="assets/pose1.gif" width="250" height="250"/>
+
 ---
 layout: default
 ---
