@@ -1,5 +1,5 @@
 ![Teaser](assets/teaser.png)
-<img src="assets/shadow.gif" width="200" height="200"/> <img src="assets/gender.gif" width="200" height="200"/><img src="assets/pose1.gif" width="200" height="200"/> <img src="assets/pose2.gif" width="200" height="200"/>
+<img src="assets/shadow.gif" width="230" height="230"/><img src="assets/gender.gif" width="230" height="230"/><img src="assets/pose1.gif" width="230" height="230"/><img src="assets/pose2.gif" width="230" height="230"/>
 
 ---
 layout: default
