@@ -71,9 +71,11 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
 </p>
 
 
+<p align="center">
+<h1>Bibtex</h1>
+ </p>
 <p align="justify">
 <div class="container">
-  <div class="bibtex">Bibtex</div>
 <pre>
   @misc{zhu2019sean,
     title={SEAN: Image Synthesis with Semantic Region-Adaptive Normalization},
@@ -87,21 +89,24 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
 </div>
 </p>
 
-
+<p align="center">
+<h1>Acknowledgements</h1>
+ </p>
 <p align="justify">
 <div class="container">
-  <div class="acknowledgement">Acknowledgement</div>
   <div class="body" style="font-size: 11pt;;">
-    We thank Wamiq Reyaz Para for helpful comments. This  work  was  supported  by  the KAUST Office of Sponsored Research (OSR) under AwardNo. OSR-CRG2018-3730.
+   This  work  was  supported  by  the KAUST Office of Sponsored Research (OSR) under AwardNo. OSR-CRG2018-3730.
   </div>
 
 </div>
 
 </p>
 
-
+<p align="center">
+<h1>Related Work</h1>
+ </p>
 <div class="container">
-  <div class="ref">Related Work</div>
+ 
    <div class="citation">
     <img src="./assets/styleGAN.png">
     <a href="https://github.com/NVlabs/stylegan">
