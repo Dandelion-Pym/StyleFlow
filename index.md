@@ -25,7 +25,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 > This is a blockquote following a header.
 >
-> When something is important eno      ugh, you do it even if the odds are not in your favor.
+> When something is imp ortant eno      ugh, you do it even if the odds are not in your favor.
 
 ### Header 
 
