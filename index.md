@@ -1,6 +1,7 @@
 <p align ="center">
+<img src="assets/1.gif" height="220" /><img src="assets/2.gif" height="220" />
 <img src="assets/teaser.png" />
-<img src="assets/1.gif" height="220" /><img src="assets/2.gif" height="220" /></p>
+</p>
 
 
 ---
