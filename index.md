@@ -116,6 +116,12 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
       A Style-Based Generator Architecture for Generative Adversarial Networks
       CVPR, 2019.
     </a>
+       <img src="assets/sg22.png" >
+    <a href="https://github.com/NVlabs/stylegan2">
+      Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila.
+      Analyzing and Improving the Image Quality of StyleGAN
+      CVPR, 2020.
+    </a>
   </div>
   <div class="citation">
     <img src="assets/sg22.png" >
