@@ -45,7 +45,7 @@ Attribute-conditioned sampling using StyleFlow. Here we show sampling results fo
 </p>
 
 <p align="center">
-<h1>Attribute Transfer</h1>
+<h1>Sequential Edits</h1>
  </p>
  
  <p align="center">
@@ -53,7 +53,7 @@ Attribute-conditioned sampling using StyleFlow. Here we show sampling results fo
 
 
 <p align="justify">
-Attribute-conditioned edits where source images are edited using multiple attributes from the target images. Upper set uses pose, expression, and illumination from the respective target images; bottom set uses eyeglass, facial hair, age, and gender from the respective target images.
+Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute was increased/decreased.
 </p>
 
 
