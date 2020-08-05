@@ -104,10 +104,10 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
 
 </p>
 
-<p align="center">
+<p align="justify">
 <h1>Related Work</h1>
  </p>
-<div class="container" ; style="color: #132840; font-size: 9px; text-align: center;">
+<div class="container">
  
    <div class="citation">
     <img src="assets/styleGAN.png">
