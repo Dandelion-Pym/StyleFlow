@@ -124,7 +124,6 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
   </div>
     </div>
   <div class="citation">
-    <img src="assets/sg22.png" >
     <a href="https://github.com/NVlabs/stylegan2">
       Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila.
       Analyzing and Improving the Image Quality of StyleGAN
