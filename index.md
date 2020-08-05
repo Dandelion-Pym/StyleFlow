@@ -95,7 +95,7 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
 <p align="justify">
 <div class="container">
   <div class="body" style="font-size: 11pt;;">
-   This work was supported by the KAUST Office of Sponsored Research (OSR).
+   This work was supported by the KAUST Office of Sponsored Research (OSR) and Adobe Research.
   </div>
 
 </div>
