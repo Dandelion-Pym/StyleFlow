@@ -13,14 +13,6 @@ Finally, via extensive qualitative and quantitative comparisons, we demonstrate 
 
 <p align="center">
 <img src="assets/car1.gif" height="300" /><img src="assets/car2.gif" height="300" /><img src="assets/car3.gif" height="300" /><img src="assets/car4.gif" height="300" /></p>
-<p align="center">
-<h1>Overview Video</h1>
- </p>
-
-<div class="container">
-  <div style="text-align: center;">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/yd5WczbFt68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
 
 <p align="center">
 <h1>Method</h1>
