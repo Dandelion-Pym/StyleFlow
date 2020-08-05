@@ -58,7 +58,7 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
 
 
 <p align="center">
-<h1>Comparison to Existing Methods</h1>
+<h1>Real Image Edits</h1>
  </p>
  
  <p align="center">
@@ -66,7 +66,7 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
 
 
 <p align="justify">
-Comparison of StyleFlow with other contemporary systems Image2StyleGAN and InterfaceGAN.
+ Real image non-sequential edits using our StyleFlow framework. Note that the method is able to handle extreme pose (first and second rows),asymmetrical expressions (fourth row) and age diversity (first and last rows) well compared to the concurrent methods.
 </p>
 
 
@@ -95,7 +95,7 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
 <p align="justify">
 <div class="container">
   <div class="body" style="font-size: 11pt;;">
-   This work was supported by the KAUST Office of Sponsored Research (OSR) under AwardNo. OSR-CRG2018-3730.
+   This work was supported by the KAUST Office of Sponsored Research (OSR).
   </div>
 
 </div>
@@ -116,28 +116,14 @@ Comparison of StyleFlow with other contemporary systems Image2StyleGAN and Inter
     </a>
   </div>
   <div class="citation">
-    <img src="assets/styleGAN.png" >
-    <a href="https://github.com/NVlabs/stylegan">
-      Tero Karras, Samuli Laine, Timo Aila.
-      A Style-Based Generator Architecture for Generative Adversarial Networks
-      CVPR, 2019.
+    <img src="assets/sg22.png" >
+    <a href="https://github.com/NVlabs/stylegan2">
+      Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila
+      Analyzing and Improving the Image Quality of StyleGAN
+      CVPR, 2020.
     </a>
   </div>
-  <div class="citation">
-    <img src="assets/styleGAN.png" >
-    <a href="https://github.com/NVlabs/stylegan"  >
-      Tero Karras, Samuli Laine, Timo Aila.
-      A Style-Based Generator Architecture for Generative Adversarial Networks
-      CVPR, 2019.
-    </a>
-  </div>
-
-  </div>
-
-
-
-
-
+ 
 
 
 
