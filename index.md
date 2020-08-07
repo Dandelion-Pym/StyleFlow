@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/teaser.png" height="500" />
+<img src="assets/teaser.png" height="700" />
 <h1>Abstract</h1>
  </p>
  
@@ -27,7 +27,7 @@ Finally, via extensive qualitative and quantitative comparisons, we demonstrate 
  </p>
  
  <p align="center">
-<img src="assets/styleFlow_pipeline.png"  height="500" /></p>
+<img src="assets/styleFlow_pipeline.png"  height="1000" /></p>
 
 
 <p align="justify">
