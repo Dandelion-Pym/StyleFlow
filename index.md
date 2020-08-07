@@ -27,7 +27,7 @@ Finally, via extensive qualitative and quantitative comparisons, we demonstrate 
  </p>
  
  <p align="center">
-<img src="assets/styleFlow_pipeline.png" /></p>
+<img src="assets/styleFlow_pipeline.png"  height="500" /></p>
 
 
 <p align="justify">
@@ -51,7 +51,7 @@ Attribute-conditioned sampling using StyleFlow. Here we show sampling results fo
  </p>
  
  <p align="center">
-<img src="assets/sota.png" /></p>
+<img src="assets/sota.png"  height="500"  /></p>
 
 
 <p align="justify">
@@ -64,7 +64,7 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
  </p>
  
  <p align="center">
-<img src="assets/comapre.png" /></p>
+<img src="assets/comapre.png"  height="500"  /></p>
 
 
 <p align="justify">
