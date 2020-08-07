@@ -70,11 +70,11 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
 <p align="justify">
 <div class="container">
 <pre>
- @misc{abdal2019image2stylegan,
-    title={Image2StyleGAN++: How to Edit the Embedded Images?},
-    author={Rameen Abdal and Yipeng Qin and Peter Wonka},
-    year={2019},
-    eprint={1911.11544},
+ @misc{abdal2020styleflow,
+    title={StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows},
+    author={Rameen Abdal and Peihao Zhu and Niloy Mitra and Peter Wonka},
+    year={2020},
+    eprint={2008.02401},
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
