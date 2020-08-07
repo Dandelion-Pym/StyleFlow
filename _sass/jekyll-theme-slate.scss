@@ -368,7 +368,7 @@ Small Device Styles
 
 @media screen and (max-width: 992px) {
   img {
-    max-width: 200%;
+    max-width: 100%;
   }
 }
 
@@ -383,10 +383,10 @@ Small Device Styles
   }
 
   .inner {
-   width:  1000%;
+   width:  1%;
   }
   .outer {
-  width:  1000%;
+  width:  1%;
   }
 
 #header_wrap {
@@ -512,11 +512,11 @@ Small Device Styles
   }
 
   .inner {
-    width:  30%;
+    width:  100%;
   }
   
   .outer {
-  width: 100%;
+  width: 300%;
   }
   
   h1 {
