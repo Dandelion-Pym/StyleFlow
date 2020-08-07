@@ -18,8 +18,8 @@ Finally, via extensive qualitative and quantitative comparisons, we demonstrate 
  </p>
 
 <div class="container">
-  <div style="text-align: center;">
-   <iframe width="460" height="315" src="https://www.youtube.com/embed/LRAUJUn3EqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div style="text-align: left;">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/LRAUJUn3EqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 <p align="center">
