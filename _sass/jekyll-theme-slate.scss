@@ -438,10 +438,14 @@ Small Device Styles
   .outer {
   width: 300%;
   }
-
-  #project_title {
-  font-size: 56px;
-  }
+  
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 42px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
 
   h1 {
     font-size: 24px;
