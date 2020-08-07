@@ -1,5 +1,5 @@
 <p align="justify">
-<img src="assets/teaser.png" />
+<img src="assets/teaser.png" height="500" />
 <h1>Abstract</h1>
  </p>
  
