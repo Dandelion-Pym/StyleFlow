@@ -1,4 +1,4 @@
-<p align="center">
+<p align="justify">
 <img src="assets/teaser.png" />
 <h1>Abstract</h1>
  </p>
