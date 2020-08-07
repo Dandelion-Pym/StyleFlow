@@ -502,9 +502,18 @@ Small Device Styles
 }
 
 @media screen and (max-width: 992px) {
-  body {
-    font-size:28px;
-  }
+
+body {
+  box-sizing: border-box;
+  color:#373737;
+  background: #212121;
+  font-size: 16px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  line-width: 2;
+  -webkit-font-smoothing: antialiased;
+}
+
 
   #downloads {
     display: none;
