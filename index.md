@@ -12,7 +12,7 @@ Finally, via extensive qualitative and quantitative comparisons, we demonstrate 
 <img src="assets/1.gif" height="300" /><img src="assets/2.gif" height="300" /></p>
 
 <p align="center">
-<img src="assets/car1.gif" height="300" /><img src="assets/car2.gif" height="300" /><img src="assets/car3.gif" height="300" /><img src="assets/car4.gif" height="300" /></p>
+<img src="assets/car1.gif" width="300" /><img src="assets/car2.gif" height="300" /><img src="assets/car3.gif" height="300" /><img src="assets/car4.gif" height="300" /></p>
 <p align="center">
 <h1>Overview Video</h1>
  </p>
