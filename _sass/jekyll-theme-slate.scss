@@ -382,8 +382,10 @@ Small Device Styles
   }
 
   .inner {
-    min-width: 992px;
-    max-width: 992px;
+   width:  300%;
+  }
+  .inner {
+  width:  300%;
   }
 
   #project_title {
@@ -430,11 +432,11 @@ Small Device Styles
   }
 
   .inner {
-    width:  400%
+    width:  300%;
   }
   
   .outer {
-  width: 400%;
+  width: 300%;
   }
 
   #project_title {
