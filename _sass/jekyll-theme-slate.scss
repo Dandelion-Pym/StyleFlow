@@ -377,7 +377,11 @@ Small Device Styles
     max-width: 200%;
     font-size:28px;
   }
-
+  .holder {
+  position: relative;
+  /* To center the text */
+  text-align:center;
+}
   #downloads {
     display: none;
   }
