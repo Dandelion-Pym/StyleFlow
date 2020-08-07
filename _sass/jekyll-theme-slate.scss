@@ -517,6 +517,11 @@ body {
   line-width: 2;
   -webkit-font-smoothing: antialiased;
 }
+.holder {
+  position: relative;
+  /* To center the text */
+  text-align:center;
+}
 
 
   #downloads {
