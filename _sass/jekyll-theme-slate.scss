@@ -523,7 +523,13 @@ body {
   text-align:center;
 }
 
-
+.inner {
+    width:  100%;
+  }
+  
+ .outer {
+  width: 300%;
+  }
   #downloads {
     display: none;
   }
