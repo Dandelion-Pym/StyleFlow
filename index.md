@@ -27,7 +27,7 @@ Finally, via extensive qualitative and quantitative comparisons, we demonstrate 
  </p>
  
  <p align="center">
-<img src="assets/styleFlow_pipeline.png"  height="1000" /></p>
+<img src="assets/styleFlow_pipeline.png"  height="800" /></p>
 
 
 <p align="justify">
@@ -51,7 +51,7 @@ Attribute-conditioned sampling using StyleFlow. Here we show sampling results fo
  </p>
  
  <p align="center">
-<img src="assets/sota.png"  height="1000"  /></p>
+<img src="assets/sota.png"  height="800"  /></p>
 
 
 <p align="justify">
