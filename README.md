@@ -76,7 +76,6 @@ Sequential edits using StyleFlow with `+'/`-' denoting corresponding attribute w
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
-}
 </pre>
 </div>
 </p>
